@@ -1,7 +1,5 @@
 import decal from "./pasta.png";
 
-const content = document.querySelector("#content");
-
 function fillMain(){
     let h1 = document.createElement("h1");
     let img = document.createElement("img");
